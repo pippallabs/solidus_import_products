@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
 
-  s.add_dependency 'solidus_core', '>= 1.4'
+  s.add_dependency 'solidus_core', '>= 1.2'
   s.add_dependency 'solidus_auth_devise'
   s.add_dependency 'delayed_job_active_record'
   s.add_dependency 'activejob_backport'
